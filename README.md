@@ -90,9 +90,6 @@ This also works in the browser using browserify :)
 Through the magic of free hosting, here are some free open signalhub servers!
 For serious applications though, consider deploying your own instances.
 
-- https://signalhub-jccqtwhdwc.now.sh
-- https://signalhub-hzbibrznqa.now.sh
-
 ## Deploying with popular services
 
 No additional configuration is needed.
